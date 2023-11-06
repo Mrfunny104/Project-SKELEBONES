@@ -1,2 +1,2 @@
 # Project-SKELEBONES
-Major Project Code Repository
+Major Project Code and STL file Repository
